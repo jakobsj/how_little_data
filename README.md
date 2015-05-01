@@ -2,7 +2,6 @@
 This code accompanies the journal article:
 
 How little data is enough? Phase-diagram analysis of sparsity-regularized X-ray computed tomography
-
 Jakob S. Joergensen and Emil Y. Sidky
 
 Phil. Trans. R. Soc. A, Vol. 373, 20140387.
