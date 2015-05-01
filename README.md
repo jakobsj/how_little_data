@@ -1,10 +1,10 @@
 # how_little_data
 This code accompanies the journal article:
 
-How little data is enough? Phase-diagram analysis of sparsity-regularized X-ray computed tomography
-Jakob S. Joergensen and Emil Y. Sidky
-Phil. Trans. R. Soc. A, Vol. 373, 20140387.
-http://dx.doi.org/10.1098/rsta.2014.0387
+How little data is enough? Phase-diagram analysis of sparsity-regularized X-ray computed tomography  
+Jakob S. Joergensen and Emil Y. Sidky  
+Phil. Trans. R. Soc. A, Vol. 373, 20140387.  
+http://dx.doi.org/10.1098/rsta.2014.0387  
 
 # Contact:
 Jakob S. Joergensen, jakj@dtu.dk
